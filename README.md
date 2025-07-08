@@ -13,7 +13,7 @@ Users should be able to:
 ✅ View a clean and responsive blog preview card on different devices.
 
 🖼️ Screenshot
-[screenshot](/screenshot/Screenshot%202025-07-08%20154015.png)
+![screenshot](/screenshot/Screenshot%202025-07-08%20154015.png)
 
 
 🔗 Links

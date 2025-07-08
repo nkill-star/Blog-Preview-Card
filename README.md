@@ -20,7 +20,7 @@ Users should be able to:
 
 🚀 GitHub Repo: https://github.com/nkill-star/Blog-Preview-Card.git
 
-🌐 Live Site URL: Add live site link here
+🌐 Live Site: https://blog-preview-card-seven-tau.vercel.app/
 
 🛠️ My Process
 

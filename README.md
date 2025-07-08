@@ -18,7 +18,7 @@ Users should be able to:
 
 🔗 Links
 
-🚀 Solution URL: Add solution link here
+🚀 GitHub Repo: https://github.com/nkill-star/Blog-Preview-Card.git
 
 🌐 Live Site URL: Add live site link here
 
